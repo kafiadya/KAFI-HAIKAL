@@ -1,0 +1,54 @@
+img {
+    width: 30%;
+    padding-left: 30px;
+}
+
+.img1 {
+    display: flex;
+    justify-content: center;
+    font-size: 2.2rem;
+}
+
+.img2{
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2.2rem;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    list-style-type: none;
+    font-size: 2.5rem;
+}
+
+.img3{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 2.5rem;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 2.5rem;
+}
+
+.blog1 {
+    background-color: rgb(50, 49, 50);
+}
